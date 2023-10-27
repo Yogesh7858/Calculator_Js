@@ -1,0 +1,37 @@
+#container{
+    background-color: beige;
+    width: 350px;
+    margin-left: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+#display{
+    font-size: 30px;
+    margin-top: 5px;
+    border: 0px;
+    border-radius: 3px;
+    /* background-color: aqua; */
+    width: 200px;
+    height: 50px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+}
+ .button_container{
+    margin-left: 70px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+.button{
+    /* display: flex; */
+    color: rgb(18, 2, 2);
+    font-size: 20px;
+    size: 5px;
+    /* background-color: blueviolet; */
+    width: 50px;
+    margin: 3px;
+    border-radius: 3px;
+    height: 40px;
+}
